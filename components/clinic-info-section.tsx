@@ -12,7 +12,7 @@ export function ClinicInfoSection() {
               <div>
                 <h3 className="text-xl font-semibold text-foreground">Medical Plaza Building</h3>
                 <p className="text-muted-foreground">1500 Medical Drive, Suite 200</p>
-                <p className="text-muted-foreground">Bole Michael, BM 1002</p>
+                <p className="text-muted-foreground">Black Lion, BL 1002</p>
               </div>
               <a href="https://maps.google.com/maps?q=8.984241,38.775354&ll=8.984241,38.775354&z=16" className="inline-block text-primary hover:text-primary/80 font-semibold text-sm">
                 View on Google Maps →
@@ -50,7 +50,7 @@ export function ClinicInfoSection() {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Contact</h3>
                   <p className="text-muted-foreground">
-                    Call +251921238004 for appointments, or text us for quick inquiries.
+                    Call +251923500318 for appointments, or text us for quick inquiries.
                   </p>
                 </div>
               </div>

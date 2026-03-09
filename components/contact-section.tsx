@@ -15,7 +15,7 @@ export function ContactSection() {
           <div className="p-6 rounded-xl bg-card border border-border">
             <Phone className="w-10 h-10 text-primary mb-4" />
             <h3 className="font-semibold text-foreground mb-2">Phone</h3>
-            <p className="text-muted-foreground text-sm mb-2">+251921238004</p>
+            <p className="text-muted-foreground text-sm mb-2">+251923500318</p>
             <p className="text-xs text-muted-foreground">Available during clinic hours</p>
           </div>
 
@@ -30,7 +30,7 @@ export function ContactSection() {
             <MapPin className="w-10 h-10 text-primary mb-4" />
             <h3 className="font-semibold text-foreground mb-2">Address</h3>
             <p className="text-muted-foreground text-sm mb-2">1500 Medical Drive, Suite 200</p>
-            <p className="text-muted-foreground text-sm">Bole Michael, BM 1002</p>
+            <p className="text-muted-foreground text-sm">Black Lion, BL 1002</p>
           </div>
 
           <div className="p-6 rounded-xl bg-card border border-border">

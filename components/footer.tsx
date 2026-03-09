@@ -9,10 +9,10 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <div className="w-10 h-10 rounded-lg bg-white flex items-center justify-center text-primary font-bold">
-                SM
+                SE
               </div>
               <div>
-                <p className="font-semibold text-white">Dr. Sarah Mitchell</p>
+                <p className="font-semibold text-white">Dr.Solomon Engdawork</p>
                 <p className="text-xs text-white/80">OB-GYN Specialist</p>
               </div>
             </div>
@@ -118,7 +118,7 @@ export function Footer() {
 
           <div className="border-t border-white/20 pt-8">
             <p className="text-center text-sm text-white/80">
-              © {currentYear} Dr. Sarah Mitchell, MD. All rights reserved. This website is for informational purposes
+              © {currentYear} Dr.Solomon Engdawork, MD. All rights reserved. This website is for informational purposes
               only and does not constitute medical advice.
             </p>
           </div>

@@ -64,7 +64,7 @@
 //                   <Phone className="w-6 h-6 text-primary mt-1 flex-shrink-0" />
 //                   <div>
 //                     <p className="font-semibold text-foreground">Phone</p>
-//                     <p className="text-muted-foreground">+251921238004</p>
+//                     <p className="text-muted-foreground">+251923500318</p>
 //                   </div>
 //                 </div>
 
@@ -74,7 +74,7 @@
 //                     <p className="font-semibold text-foreground">Address</p>
 //                     <p className="text-muted-foreground">Medical Plaza Building</p>
 //                     <p className="text-muted-foreground">1500 Medical Drive, Suite 200</p>
-//                     <p className="text-muted-foreground">Bole Michael, BM 1002</p>
+//                     <p className="text-muted-foreground">Black Lion, BL 1002</p>
 //                   </div>
 //                 </div>
 
